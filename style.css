@@ -100,3 +100,49 @@
 h6{
     padding-top: 10px;
 }
+.work-experience{
+    padding: 10px;
+    padding-top: 25px;
+    background-color: #f9f9f9;
+    margin-bottom: 20px;
+}
+.work-experience a{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    color:#757575;
+    text-decoration: none;
+    margin-bottom: 15px;
+    font-size: 28px;
+}
+.work-experience i{
+    font-size: 30px;
+    color: #009688;
+}
+.job {
+    margin-bottom: 20px;
+}
+.job h3 {
+    font-size: 20px;
+    margin: 0;
+    color: #757575;
+}
+.job-date {
+    display: block;
+    font-size: 15px;
+    color: white;
+    background-color: #009688;
+}
+.job-description {
+    font-size: 16px;
+    color: black;
+    line-height: 1.5;
+}
+.job li i{
+    font-size: 20px;
+}
+.job li a{
+    font-size: 15px;
+    color: #009688;
+    padding-top: 5px;
+}
