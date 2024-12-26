@@ -5,11 +5,17 @@
     list-style-type: none;
 }
 .container-fluid{
-    /* background-color:#F1F1F1; */
+    background-color: #EEEEEE;
     padding: 0;
     padding-left: 15px;
     padding-right: 15px;
 }
+.left-container{
+    background-color: #FFFFFF;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    margin: 15px 0;
+} 
 .profile{
     position: relative;
     display: inline;
@@ -105,6 +111,8 @@ h6{
     padding-top: 25px;
     background-color: #f9f9f9;
     margin-bottom: 20px;
+    background-color: #FFFFFF;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 .work-experience a{
     display: flex;
@@ -145,4 +153,43 @@ h6{
     font-size: 15px;
     color: #009688;
     padding-top: 5px;
+}
+.education{
+    padding: 10px;
+    padding-top: 25px;
+    background-color: #f9f9f9;
+    margin-bottom: 20px;
+    background-color: #FFFFFF;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+.education a{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    color:#757575;
+    text-decoration: none;
+    margin-bottom: 15px;
+    font-size: 28px;  
+}
+.education i{
+    font-size: 30px;
+    color: #009688;
+}
+.school h3 {
+    font-size: 20px;
+    margin: 0;
+    color: #757575;
+}
+.school li i{
+    font-size: 20px;
+}
+.school li a{
+    font-size: 15px;
+    color: #009688;
+    padding-top: 5px;
+}
+.school-degree {
+    font-size: 16px;
+    color: black;
+    line-height: 1.5;
 }
