@@ -193,3 +193,23 @@ h6{
     color: black;
     line-height: 1.5;
 }
+.footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #009688;
+    list-style: none;
+    color: #EEEEEE;
+    padding: 2rem;
+}
+#social-media{
+    display: flex;
+    text-align: center;
+}
+#social-media li i{
+    color: #EEEEEE;
+    margin-left: 0.2rem;
+}
+#social-media li i:hover{
+    color: red;
+}
