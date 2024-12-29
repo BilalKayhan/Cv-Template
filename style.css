@@ -34,10 +34,10 @@
     font-size: 30px;
     text-align: center;
 }
-.profile-li{
+.profileInfo{
     padding-left: 15px;
 }
-.profile-li a{
+.profileInfo a{
     display: flex;
     align-items: center; 
     gap: 15px; 
@@ -46,7 +46,7 @@
     margin-bottom: 15px; 
     font-size: 16px; 
 }
-.profile-li i{
+.profileInfo i{
     font-size: 18px;
     color: #009688;    
 }
@@ -83,6 +83,7 @@
     color: white;
     text-align: center;
     border-radius: 10px 0 0 10px;
+    font-size: 12px;
 }
 #languages{
     align-items: start;

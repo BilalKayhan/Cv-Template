@@ -1,23 +1,32 @@
 {
-    "profileInfo":{
-        "fullName":"Bilal Kayhan",
-        "title":"Full-Stack Developer",
-        "address":"İstanbul, TR",
-        "email":"fbilalkayhan@gmail.com",
-        "phone":"1224435534",
-        "image":"bilal.jpeg",
-        "skills":[
-            {"name":"JavaScript", "level":"80"},
-            {"name":"HTML&CSS", "level":"90"},
-            {"name":".Net", "level":"70"},
-            {"name":"Node.js", "level":"40"}
-        ],
-        "languages":[
-            {"language":"Turkish","level":"100"},
-            {"language":"English","level":"70"},
-            {"language":"German","level":"30"}
-        ]
-    },
+    "profileInfo":[
+        {
+            "class":"fa-solid fa-briefcase",
+            "title":"Full-Stack Developer"
+        },
+        {
+            "class":"fa-solid fa-house",
+            "title":"İstanbul, TR"
+        },
+        {
+            "class":"fa-solid fa-envelope",
+            "title":"fbilalkayhan@gmail.com"
+        }, {
+            "class":"fa-solid fa-phone",
+            "title":"1224435534"
+        }
+    ],
+    "skills":[
+        {"name":"JavaScript", "level":"80"},
+        {"name":"HTML&CSS", "level":"90"},
+        {"name":".Net", "level":"70"},
+        {"name":"Node.js", "level":"40"}
+    ],
+    "languages":[
+            {"languageName":"Turkish","level":"100"},
+            {"languageName":"English","level":"70"},
+            {"languageName":"German","level":"30"}
+    ],
     "workExperience":[
         {
             "company":"İSTANBUL EĞİTİM AKADEMİ FULL STACK .NET DEVELOPER TRAİNEE",
