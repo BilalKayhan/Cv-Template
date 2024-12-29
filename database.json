@@ -1,0 +1,55 @@
+{
+    "profileInfo":{
+        "fullName":"Bilal Kayhan",
+        "title":"Full-Stack Developer",
+        "address":"İstanbul, TR",
+        "email":"fbilalkayhan@gmail.com",
+        "phone":"1224435534",
+        "image":"bilal.jpeg",
+        "skills":[
+            {"name":"JavaScript", "level":"80"},
+            {"name":"HTML&CSS", "level":"90"},
+            {"name":".Net", "level":"70"},
+            {"name":"Node.js", "level":"40"}
+        ],
+        "languages":[
+            {"language":"Turkish","level":"100"},
+            {"language":"English","level":"70"},
+            {"language":"German","level":"30"}
+        ]
+    },
+    "workExperience":[
+        {
+            "company":"İSTANBUL EĞİTİM AKADEMİ FULL STACK .NET DEVELOPER TRAİNEE",
+            "startDate":"Mayıs 2024",
+            "endDate":"Güncel",
+            "description":"YMYP kursunda 480 saatlik eğitim aldım. Kurs boyunca teknik konulara ve projelere odaklanarak ilerledik. Ayrıca, eğitim süresince ek projeler üzerinde çalışarak becerilerimi geliştirmeye devam ediyorum."
+        },
+        {
+            "company":"ELEL Elektrik-Elektronik Ltd. Şti.",
+            "startDate":"Şubat 2023",
+            "endDate":"Temmuz 2023",
+            "description":"Yaklaşık 5 ay süren işletmede mesleki eğitim adı altında geçen bu süreçte birçok farklı görev ve deneyim edindim. Altium designer programını öğrenip bu programla numune pcb tasarımları çıkarttım ve bazı aydınlatma modelleri seri üretime başladı. Onun haricinde rgb led, higrostat, havuz aydınlatma gibi ürün kartlarının programlamalarını yürüttüm. Çok kısa sürede mesleki anlamda çok verimli bir çalışma gerçekleşti."
+        },
+        {
+            "company":"İSKİ Genel Müdürlüğü Enerji Yönetimi Şube Müdürlüğü Stajı",
+            "startDate":"Temmuz 2022",
+            "endDate":"Ağustos 2022",
+            "description":"YMYP kursunda 480 saatlik eğitim aldım. Kurs boyunca teknik konulara ve projelere odaklanarak ilerledik. Ayrıca, eğitim süresince ek projeler üzerinde çalışarak becerilerimi geliştirmeye devam ediyorum."
+        }
+    ],
+    "education":[
+        {
+            "school":"Bilecik Şeyh Edebali Üniversitesi",
+            "startDate":"Ağustos 2019",
+            "endDate":"Eylül 2023",
+            "description":"Elektrik-Elektronik Mühendisliği Lisans Mezunu 3.18 not ortalaması"
+        },
+        {
+            "school":"Öğrenciden Armağan Anadolu Lisesi",
+            "startDate":"Ağustos 2015",
+            "endDate":"Eylül 2019",
+            "description":"Lise Mezunu 76.09 not ortalaması"
+        }
+    ]
+}
